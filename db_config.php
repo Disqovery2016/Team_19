@@ -1,5 +1,6 @@
 <?php
-  /*define('DB_SERVER', '202.52.134.52');
+  /* This is my site database info. developed for my comp. department
+  define('DB_SERVER', '202.52.134.52');
    define('DB_USERNAME', 'dypuser');
    define('DB_PASSWORD', 'dyppass');
    define('DB_DATABASE', 'dyp');
