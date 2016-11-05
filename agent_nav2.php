@@ -12,12 +12,10 @@
     <div class="navbar-header">
       <a class="navbar-brand" href="index.php">FarmAssist Home Page</a>
     </div>
+    
 	<ul class="nav navbar-nav navbar-right">
-	
-	<li><a href="expert.php"><span class="glyphicon glyphicon-user"></span> Ask Expert</a></li>
-	<li><a href="index.php"><span class="glyphicon glyphicon-user"></span> Login</a></li>
+	<li><a href="index.php"><span class="glyphicon glyphicon-user"></span> Logout</a></li>
 	</ul>
-
      
   </div>
 </nav>
@@ -26,4 +24,3 @@
 
 </body>
 </html>
-
